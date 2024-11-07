@@ -12,7 +12,7 @@ function Root() {
             <NavLink to="/">Home</NavLink>
           </li>
           <li>
-            <NavLink>About</NavLink>
+            <NavLink to="/about">About</NavLink>
           </li>
           <li>
             <NavLink>Writing</NavLink>
