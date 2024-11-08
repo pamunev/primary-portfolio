@@ -5,6 +5,9 @@ import "./index.css";
 import App from "./App.jsx";
 import Root from "./routes/root.jsx";
 import About from "./routes/about.jsx";
+import Writing from "./routes/writing.jsx";
+import ContentCreation from "./routes/contentCreation.jsx";
+import Playwriting from "./routes/playwriting.jsx";
 
 const router = createBrowserRouter([
   {
@@ -15,6 +18,15 @@ const router = createBrowserRouter([
         path: "/about",
         element: <About />,
       },
+      {
+        path: "/writing",
+        element: <Writing />,
+      },
+      {
+        path: "/content-creation",
+        element: <ContentCreation />,
+      },
+      { path: "/playwriting", element: <Playwriting /> },
     ],
   },
 ]);
