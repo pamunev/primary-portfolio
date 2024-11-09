@@ -21,7 +21,7 @@ function Root() {
             <NavLink>Acting</NavLink>
           </li>
           <li>
-            <NavLink>Coding</NavLink>
+            <NavLink to="/coding">Coding</NavLink>
           </li>
         </ul>
       </div>

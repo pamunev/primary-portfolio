@@ -8,6 +8,7 @@ import About from "./routes/about.jsx";
 import Writing from "./routes/writing.jsx";
 import ContentCreation from "./routes/contentCreation.jsx";
 import Playwriting from "./routes/playwriting.jsx";
+import Coding from "./routes/coding.jsx";
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,7 @@ const router = createBrowserRouter([
         element: <ContentCreation />,
       },
       { path: "/playwriting", element: <Playwriting /> },
+      { path: "/coding", element: <Coding /> },
     ],
   },
 ]);
