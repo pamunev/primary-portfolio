@@ -1,4 +1,41 @@
-:root {
+/*------Media query for desktop view------*/
+
+@media all and (min-width: 708px) {
+  /*-----Header-----*/
+
+  #root-component {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #root-component #header {
+    display: flex;
+  }
+
+  #root-component #header h1 {
+    align-items: center;
+  }
+
+  #root-component #header {
+    align-items: center;
+  }
+
+  #root-component #menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+  #root-component #menu li {
+    margin-right: 2rem;
+  }
+}
+
+/* Original Vite styles, for reference. */
+
+/*:root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -66,3 +103,5 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+*/
