@@ -19,7 +19,7 @@ function Root() {
               <NavLink to="/writing">Writing</NavLink>
             </li>
             <li>
-              <NavLink>Acting</NavLink>
+              <NavLink to="/acting">Acting</NavLink>
             </li>
             <li>
               <NavLink to="/coding">Coding</NavLink>

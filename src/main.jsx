@@ -9,6 +9,7 @@ import Writing from "./routes/writing.jsx";
 import ContentCreation from "./routes/contentCreation.jsx";
 import Playwriting from "./routes/playwriting.jsx";
 import Coding from "./routes/coding.jsx";
+import Acting from "./routes/acting.jsx";
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,7 @@ const router = createBrowserRouter([
       },
       { path: "/playwriting", element: <Playwriting /> },
       { path: "/coding", element: <Coding /> },
+      { path: "/acting", element: <Acting /> },
     ],
   },
 ]);
