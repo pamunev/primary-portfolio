@@ -2,7 +2,7 @@
 
 /* Global styles */
 
-.App {
+#section-coding {
   background-color: #49a078;
 
   color: #1f2421;
@@ -35,7 +35,7 @@
   font-size: 14px;
 }
 
-a {
+#section-coding a {
   /*color: #68279B;
     color: #75040C;*/
   color: #750431;
@@ -43,15 +43,15 @@ a {
   font-weight: bold;
 }
 
-a:hover {
+#section-coding a:hover {
   color: #f50665;
 }
 
-hr {
+#section-coding hr {
   width: 10%;
 }
 
-.button {
+#section-coding .button {
   cursor: pointer;
   margin-right: 35px;
   border: 2px solid #151617;
@@ -60,7 +60,7 @@ hr {
   font-family: "Merriweather", "Times New Roman", Inter, serif;
 }
 
-.button:hover {
+#section-coding .button:hover {
   background-color: #216869;
   color: #dce1de;
 }

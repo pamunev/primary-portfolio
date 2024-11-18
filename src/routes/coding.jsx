@@ -6,7 +6,7 @@ import "../styles-additional/coding-portfolio-styles.css";
 
 function Coding() {
   return (
-    <div>
+    <div id="section-coding">
       <Header />
       <AboutSection />
       <CodeSection />

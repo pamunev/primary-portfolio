@@ -1,5 +1,5 @@
 import therapistSite from "../assets/therapist-website-screenshot-2.png";
-import periodicTables from "../assets/patient-dashboard-screenshot.png";
+import periodicTables from "../assets/periodic-tables-screenshot.png";
 import weLoveMovies from "../assets/WeLoveMovies-screenshot.png";
 import patientDashboard from "../assets/patient-dashboard-screenshot.png";
 

@@ -6,6 +6,7 @@
   #root-component {
     display: flex;
     flex-direction: column;
+    color: black;
   }
 
   #root-component #header {
@@ -30,6 +31,11 @@
 
   #root-component #menu li {
     margin-right: 2rem;
+  }
+
+  #root-component a {
+    text-decoration: none;
+    color: black;
   }
 }
 
