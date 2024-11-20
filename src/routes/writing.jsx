@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 function Writing() {
   return (
-    <div>
+    <div id="section-writing">
       <p>
         Here goes my two writing links, at least. Copywriting and playwriting. I
         need to figure out a way to have a navlink within the navlink. Like a
@@ -14,8 +14,15 @@ function Writing() {
         Whatever the case, the buttons should go here. I can figure out the
         dropdown menu stuff later.
       </p>
-      <NavLink to="/content-creation">Content Creation</NavLink>
-      <NavLink to="/playwriting">Playwriting</NavLink>
+      <div>
+        <NavLink to="/content-creation">
+          <button>Content Creation</button>
+        </NavLink>
+
+        <NavLink to="/playwriting">
+          <button>Playwriting</button>
+        </NavLink>
+      </div>
     </div>
   );
 }

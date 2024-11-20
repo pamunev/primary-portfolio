@@ -34,6 +34,12 @@
   color: black;
 }
 
+/*------Writing Section------*/
+
+#section-writing button {
+  margin: 0 0.5rem;
+}
+
 /*------Media query for desktop view------*/
 
 @media all and (min-width: 708px) {
