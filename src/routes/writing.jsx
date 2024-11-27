@@ -14,6 +14,11 @@ function Writing() {
         Whatever the case, the buttons should go here. I can figure out the
         dropdown menu stuff later.
       </p>
+      <p>
+        I think this is where I should send content job people. And then they
+        can choose which version of my writing they want to see.
+      </p>
+      <p>Maybe I could include a blurb here, a summary of my achievements.</p>
       <div>
         <NavLink to="/content-creation">
           <button>Content Creation</button>
