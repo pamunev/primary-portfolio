@@ -50,6 +50,10 @@ function ContentCreation() {
         others I find around. Then make some stock-photo images to go with them
         on canva. Find out the dimensions I want.
       </p>
+      <p>
+        The other folder is the GoDaddy desktop things. It's called something
+        like that.
+      </p>
     </div>
   );
 }
