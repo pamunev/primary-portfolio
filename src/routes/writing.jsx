@@ -28,6 +28,7 @@ function Writing() {
           <button>Playwriting</button>
         </NavLink>
       </div>
+      <p>I need to style these buttons.</p>
     </div>
   );
 }
