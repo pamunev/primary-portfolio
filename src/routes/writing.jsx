@@ -4,6 +4,15 @@ function Writing() {
   return (
     <div id="section-writing">
       <p>
+        I think I'll start with a landing page with accomplishments. A short
+        highlight, like in Laura Neill's landing page. Under the section header:
+        Playwriting. Then a link to that section.
+      </p>
+      <p>
+        Same with the content section. A summary of my experience with content
+        creation.
+      </p>
+      <p>
         Here goes my two writing links, at least. Copywriting and playwriting. I
         need to figure out a way to have a navlink within the navlink. Like a
         dropdown navlink, or a hover within a navlink. It might be a good idea
