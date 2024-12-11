@@ -8,6 +8,15 @@ function ContentCreation() {
     <div>
       <h1 className="header-content-creation">Social Media Posts</h1>
       <hr className="hr-content" />
+      <p className="section-description">
+        Here are some sample versions of social media posts that I created and
+        published for small businesses accross the country during my time
+        working at GoDaddy.
+        <p>
+          I replaced the original images with stock photos, since GoDaddy holds
+          the copyright for the originals.
+        </p>
+      </p>
       <div className="social-media-posts">
         <div className="captioned-post">
           <p className="caption-header">Car Dealership</p>

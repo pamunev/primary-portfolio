@@ -3,10 +3,35 @@ import { NavLink } from "react-router-dom";
 function Writing() {
   return (
     <div id="section-writing">
+      <h1 className="header-writing">Writing</h1>
+      <hr className="hr-content" />
+      <div className="subsection-writing">
+        <h3>Content Creation</h3>
+        <div className="section-description">
+          <p>
+            I created written content for small businesses accross the country
+            during my time working as a content specialist at GoDaddy.
+          </p>
+          <p>
+            I also wrote some articles for <em>The Vista Today</em> (formerly{" "}
+            <em>Teravista Today</em>), a community magazine serving Teravista
+            residents, and some blog posts for WanderThemes, a travel experience
+            company.
+          </p>
+        </div>
+        <NavLink to="/content-creation">
+          <button>Click here for samples</button>
+        </NavLink>
+      </div>
       <p>
         I think I'll start with a landing page with accomplishments. A short
         highlight, like in Laura Neill's landing page. Under the section header:
         Playwriting. Then a link to that section.
+      </p>
+      <p>
+        My highlights will include what I've won for boat play, dreams, and
+        maybe one of the ones published in rio review. Maybe over and over
+        again, since that was also selected for production in radiopidemic.
       </p>
       <p>
         Same with the content section. A summary of my experience with content
@@ -29,10 +54,6 @@ function Writing() {
       </p>
       <p>Maybe I could include a blurb here, a summary of my achievements.</p>
       <div>
-        <NavLink to="/content-creation">
-          <button>Content Creation</button>
-        </NavLink>
-
         <NavLink to="/playwriting">
           <button>Playwriting</button>
         </NavLink>
