@@ -74,9 +74,19 @@ body {
 
 /*------Content Creation Section------*/
 
+.writing-content-section {
+  display: flex;
+  flex-direction: column;
+}
+
 .header-content-creation {
   margin-bottom: 0rem;
   padding-bottom: 0rem;
+}
+
+.subheader-content-creation {
+  display: flex;
+  margin: 1% 4% 0;
 }
 
 .social-media-posts {
