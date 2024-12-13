@@ -115,13 +115,13 @@ function ContentCreation() {
         </p>
         <p className="section-description-2">
           Colombia’s coffee region is a tropical, hilly stretch of land that
-          spans the departments of Caldas, Risaralda, and Quindio, and features
-          some of the most spectacular landscapes in a country known for its
-          spectacular landscapes. There’s no shortage of incredible areas to
-          hike, such as Valle Cocora, a natural cloud forest featuring the
-          enormous and rare Quindío wax palm trees. Like in Vietnam’s Moc Chau
-          region, travelers can tour Colombia’s coffee farms and sample some of
-          the best coffee in Colombia.
+          spans the departments of Caldas, Risaralda, and Quindio, and it
+          features some of the most spectacular landscapes in a country known
+          for its spectacular landscapes. There’s no shortage of incredible
+          areas to hike, such as Valle Cocora, a natural cloud forest featuring
+          the enormous and rare Quindío wax palm trees. Like in Vietnam’s Moc
+          Chau region, travelers can tour Colombia’s coffee farms and sample
+          some of the best coffee in Colombia.
         </p>{" "}
         <p className="section-description-2">
           These destinations feature some of the most beautiful landscapes in
