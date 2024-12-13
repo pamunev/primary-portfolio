@@ -110,7 +110,7 @@ function ContentCreation() {
           From vibrant cities to beautiful villages, there is no shortage of
           cultural avenues to explore in Vietnam, largely situated among great
           swaths of natural landscape. Moc Chau, for example, is an enormous tea
-          plantation that lies on ranges upon ranges of hills, and grows some of
+          plantation that lies on ranges upon ranges of hills and grows some of
           the best tea in Vietnam.
         </p>
         <p className="section-description-2">
