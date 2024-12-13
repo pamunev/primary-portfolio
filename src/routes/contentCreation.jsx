@@ -97,7 +97,7 @@ function ContentCreation() {
         </p>
         <p className="section-description-2">
           In the Pyrenees, travelers can explore Ordesa National Park, a UNESCO
-          World Heritage Site, with its canyons and high alpine meadows, and
+          World Heritage Site, and its canyons, high alpine meadows, and
           incredible diversity of flora and fauna. Travelers can also visit
           Alquezar, a beautiful village that used to be the Spanish frontier
           during La Reconquista. Rich with history, the landscape there is
