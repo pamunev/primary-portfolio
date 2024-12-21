@@ -1,7 +1,7 @@
 function Acting() {
   return (
     <div>
-      <p>Here will go my acting stuff.</p>
+      <p>This part of the website is under construction.</p>
       <p>
         Basically, I include a summary of myself as an actor. Then link my
         resume. Then maybe a complete list of acting roles? TBD. Then some
