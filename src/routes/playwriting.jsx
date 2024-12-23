@@ -7,6 +7,7 @@ function Playwriting() {
         versions? Or just a link to my new play exchange? I want to look at the
         writing portfolio of Laura Neill and maybe some other playwrights.
       </p>
+      <p>Maybe some snippets or screenshots from my longer plays.</p>
     </div>
   );
 }
