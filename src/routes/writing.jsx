@@ -59,6 +59,10 @@ function Writing() {
         </NavLink>
       </div>
       <p>I need to style these buttons.</p>
+      <p>
+        I'm unsure what's the best way to structure the writing section of my
+        portfolio.
+      </p>
     </div>
   );
 }
